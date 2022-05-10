@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main() 
 {
-    printf("Hello World");
+    printf("%zu", sizeof(int));
     return 0;
 }
